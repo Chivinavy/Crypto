@@ -1,0 +1,4 @@
+﻿  Crypto.cpp
+C:\Users\slend\Desktop\Crypto\Crypto\Crypto\Crypto.cpp(13,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\slend\Desktop\Crypto\Crypto\Crypto\Crypto.cpp(27,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Crypto.vcxproj -> C:\Users\slend\Desktop\Crypto\Crypto\Debug\Crypto.exe
